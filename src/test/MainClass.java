@@ -8,6 +8,8 @@ public class MainClass {
 		
 		System.out.println("adding new feature1");
 
+		System.out.println("added some new feature from github");
+
 	}
 
 }
